@@ -1,0 +1,4 @@
+pathlib
+yfinance
+pandas
+Ta-Lib
